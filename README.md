@@ -1,2 +1,2 @@
 # network-intrusion-detection-ml
-Lightweight Explainable Hybrid Network Intrusion Detection System with Zero-Day Detection
+“An Adaptive Explainable Hybrid Network Intrusion Detection System with Zero-Day Awareness and Risk-Based Intelligence”
